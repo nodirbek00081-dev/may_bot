@@ -13,9 +13,9 @@ import sqlite3
 
 # --- SOZLAMALAR ---
 # Tokenni o'z bot tokeningizga almashtiring
-BOT_TOKEN = "SIZNING_BOT_TOKENINGIZ"
+BOT_TOKEN = "9186846172:AAFJNsgYF1Cfa8wyFLvKbW0tyMis1kjasjM"
 # Admin Telegram ID raqamingizni yozing
-ADMIN_ID = 123456789  # O'z ID raqamingiz bilan almashtiring
+ADMIN_ID = 8845897591  # O'z ID raqamingiz bilan almashtiring
 
 # Majburiy obuna kanallari (foydalanuvchi obuna bo'lishi shart bo'lgan kanallar)
 REQUIRED_CHANNELS = ["@Mobile_Legends_Uzb_09", "@nodirbek_safarboyevch"]
