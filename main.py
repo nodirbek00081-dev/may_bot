@@ -13,7 +13,7 @@ import sqlite3
 
 # --- SOZLAMALAR ---
 # Tokenni o'z bot tokeningizga almashtiring
-BOT_TOKEN = "9186846172:AAHnqabc1xf_70W5J2icZajLvV5VpMCtylg"
+BOT_TOKEN =os.getenv("9186846172:AAHnqabc1xf_70W5J2icZajLvV5VpMCtylg")
 # Admin Telegram ID raqamingizni yozing
 ADMIN_ID = 8845897591  # O'z ID raqamingiz bilan almashtiring
 
