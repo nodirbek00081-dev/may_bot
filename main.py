@@ -13,8 +13,8 @@ import sqlite3
 
 # --- SOZLAMALAR ---
 # Tokenni o'z bot tokeningizga almashtiring
-BOT_TOKEN = "9186846172:AAHnqabc1xf_70W5J2icZajLvV5VpMCtylg"
 # Admin Telegram ID raqamingizni yozing
+BOT_TOKEN = "9186846172:AAEAQ2kFxp1PINPap_bp33C1_ovFp8-M3iM"
 ADMIN_ID = 8845897591  # O'z ID raqamingiz bilan almashtiring
 
 # Majburiy obuna kanallari (foydalanuvchi obuna bo'lishi shart bo'lgan kanallar)
